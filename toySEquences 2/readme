@@ -1,0 +1,19 @@
+These sequences were generated using an automated process.  The normal regions have around 5% CG content,
+while the CpG regions should have closer to 20%.  This is artificial and does not exactly match what you
+will find in the contigs from HCM21, however it is a good starting point for testing your code.  The 
+files contain sequences with only the characters ACTG and with 70 characters per line (except the last
+line of course).
+
+seq1.out (total length 5000 bp):
+  CpG region from 0 - 548
+  Normal region from 549 - 2439
+  CpG region from 2440 - 3833
+  Normal region from 3834 - 4999
+
+seq2.out (total length 5444 bp):
+  Normal region from 0 - 577
+  CpG region from 578 - 1802
+  Normal region from 1803 - 2933
+  CpG region from 2934 - 3144
+  Normal region from 3145 - 3959
+  CpG region from 3960 - 5443
